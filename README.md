@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gemy2050&label=Profile%20views&color=0e75b6&style=flat" alt="gemy2050" /> 
+  <img src="https://komarev.com/ghpvc/?username=MohamedGamalOmar&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedGamalOmar" /> 
 </p>
 
 ---
@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/mohamed-gamal-omar/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mohamed Gamal" height="40" width="40" />
   </a>
-  <a href="https://github.com/gemy2050" target="_blank">
+  <a href="https://github.com/MohamedGamalOmar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - Mohamed Gamal" height="40" width="40" />
   </a>
 </p>
@@ -72,7 +72,7 @@
 
 ---
 
-#### [Kids-Kiosk Ecommerce](https://github.com/Gemy2050/KidsKiosk) | React.js, TypeScript, Redux, Tailwind CSS, REST API
+#### [Kids-Kiosk Ecommerce](https://github.com/MohamedGamalOmar/KidsKiosk) | React.js, TypeScript, Redux, Tailwind CSS, REST API
 ** 🚀 Powerful Admin Dashboard  
 - 📊 Real-time analytics for sales and performance tracking.  
 - 🛒 Efficient product management (add, edit, and delete).  
@@ -91,7 +91,7 @@
 
 ---
 
-#### [LinkedIn Clone](https://github.com/Gemy2050/Linkedin-Clone) | React.js, Redux, Bootstrap, Firebase
+#### [LinkedIn Clone](https://github.com/MohamedGamalOmar/Linkedin-Clone) | React.js, Redux, Bootstrap, Firebase
 - **User Authentication**: Integrated **Firebase Google authentication** for secure user sign-in.
 - **Post Management**: Built features allowing users to **create, update, and delete posts**.
 - **Saved Items**: Developed functionality for users to **save posts** to a personal collection for future reference.
@@ -100,7 +100,7 @@
 
 ---
 
-#### [Student Assistant](https://github.com/Gemy2050/Chatbot_Project) | React.js, Context API, Bootstrap, Firebase
+#### [Student Assistant](https://github.com/MohamedGamalOmar/Chatbot_Project) | React.js, Context API, Bootstrap, Firebase
 - **Chatbot Integration**: Developed a **conversational chatbot** to assist students in interacting with the system.
 - **Community Engagement**: Facilitated peer-to-peer interaction through a **dedicated discussion chat** for sharing experiences and collaborating on coursework.
 - **Course Management**: Implemented features allowing students to **browse courses, access materials, and monitor their academic progress**.
@@ -109,7 +109,7 @@
 
 ---
 
-#### [Quiz App](https://github.com/Gemy2050/Prog_Quiz_App) | JavaScript
+#### [Quiz App](https://github.com/MohamedGamalOmar/Prog_Quiz_App) | JavaScript
 - **Dynamic Question Loading**: Fetched questions from **local JSON files** for scalability and easy management.
 - **User Interaction**: Allowed users to select answers for each question and proceed through the quiz.
 - **Countdown Timer**: Implemented a timer that automatically submitted answers and showed results when time expired.
@@ -117,7 +117,7 @@
 
 ---
 
-#### [Social App](https://github.com/Gemy2050/social_app) | JavaScript, Bootstrap
+#### [Social App](https://github.com/MohamedGamalOmar/social_app) | JavaScript, Bootstrap
 - **User Authentication**: Implemented **secure sign-up and login** functionality.
 - **Data Persistence**: Utilized **local and session storage** for user data management.
 - **Post Management**: Enabled users to **create, update, and delete their posts**.
@@ -154,8 +154,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gemy2050&show_icons=true&locale=en&layout=compact" alt="gemy2050" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedGamalOmar&show_icons=true&locale=en&layout=compact" alt="MohamedGamalOmar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gemy2050&show_icons=true&locale=en" alt="gemy2050" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedGamalOmar&show_icons=true&locale=en" alt="MohamedGamalOmar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gemy2050&" alt="gemy2050" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedGamalOmar&" alt="MohamedGamalOmar" /></p>
