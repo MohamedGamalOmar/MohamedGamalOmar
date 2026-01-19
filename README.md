@@ -38,6 +38,9 @@
   <a href="https://github.com/MohamedGamalOmar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - Mohamed Gamal" height="40" width="40" />
   </a>
+  <a href="https://wa.me/201021595806" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp - Mohamed Gamal" height="40" width="40" />
+  </a>
 </p>
 
 <br>
