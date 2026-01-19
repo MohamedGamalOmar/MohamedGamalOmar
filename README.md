@@ -47,6 +47,18 @@
 
 ---
 
+#### Frontend Developer | TurnDigital (Software House)
+*April 2025 – Present | Maadi, Cairo, Egypt*
+
+- Specializing in Vue.js, Pinia, Vuex, TypeScript, SCSS, and Tailwind CSS. Responsible for developing
+scalable and modular user interfaces, integrating REST APIs, and implementing complex end-to-end business
+requirements. Work includes close collaboration with backend teams to deliver complete and well-structured
+features. Key duties involve building reusable UI components, managing application state efficiently, ensuring
+responsive cross-browser layouts, optimizing performance, enhancing user experience, and contributing to
+architectural improvements across projects. Improved UI performance and reduced integration issues.
+
+---
+
 #### Frontend Web Development Internship | Information Technology Institute (ITI)
 *July 2023 – Sept 2023 | Menofia, Egypt*
 
@@ -69,6 +81,27 @@
 ---
 
 ### 🚀 Projects
+
+---
+
+#### [Cairo Quran Radio](https://misrquran.gov.eg) | Vue.js, Scss, VueX, REST API
+- The Official Website of the Quran Radio in Cairo, that is offering the ability to listen to Quran Radio, also
+allowing users to read the Quran as text and much more.
+- Built Live Radio with auto-updating program schedule based on Cairo Time Zone
+- Created audio programs, episodes, and Quran recordings listing and details pages.
+- Built a global sticky audio player used across the entire platform.
+- Built a full admin system for CRUD operations: audio files, recordings, programs, and live radio paragraphs.
+
+---
+
+#### CPA - Customer Protection Agency | Vue.js, Pinia , Scss, Tailwind CSS, REST API
+- The Official Website of National Customer Protection Agency that enable citizens to electronically submit and
+track complaints regarding unfair trade practices and product safety concerns.
+- Built the entire project from scratch including full authentication, authorization, and profile management.
+- Built multi-step complain submission form with validation, listing, and detailed pages with date range and
+complain number filtering.
+- Allowed users to upload files and receive documents or comments request notifications from CPA staff.
+- Built informative agency pages, media center, newsletter and much more, ensured a clean and responsive UI.
 
 ---
 
