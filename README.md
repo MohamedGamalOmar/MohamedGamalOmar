@@ -94,7 +94,7 @@ allowing users to read the Quran as text and much more.
 
 ---
 
-#### CPA - Customer Protection Agency | Vue.js, Pinia , Scss, Tailwind CSS, REST API
+#### CPA - Customer Protection Agency | To Be Released | Vue.js, Pinia , Scss, Tailwind CSS, REST API
 - The Official Website of National Customer Protection Agency that enable citizens to electronically submit and
 track complaints regarding unfair trade practices and product safety concerns.
 - Built the entire project from scratch including full authentication, authorization, and profile management.
@@ -105,7 +105,16 @@ complain number filtering.
 
 ---
 
-#### [Kids-Kiosk Ecommerce](https://github.com/MohamedGamalOmar/KidsKiosk) | React.js, TypeScript, Redux, Tailwind CSS, REST API
+#### MCIT - Ministry of Communication & Information Technology | To Be Released
+- The Official Website of the Ministry of Communication and Information Technology, that will be available for
+both public users and internal Employees
+- Built listing and details pages like Tenders, Indicators, Posts, and Communications.
+- Created a global Print Specific Section utility that Prints only required parts of details pages and
+Excludes irrelevant content.
+
+---
+
+#### [Kids-Kiosk Ecommerce](https://github.com/MohamedGamalOmar/KidsKiosk) | React.js, TypeScript, Redux, Tailwind CSS, REST API, Stripe
 ** 🚀 Powerful Admin Dashboard  
 - 📊 Real-time analytics for sales and performance tracking.  
 - 🛒 Efficient product management (add, edit, and delete).  
@@ -142,15 +151,8 @@ complain number filtering.
 
 ---
 
-#### [Quiz App](https://github.com/MohamedGamalOmar/Prog_Quiz_App) | JavaScript
-- **Dynamic Question Loading**: Fetched questions from **local JSON files** for scalability and easy management.
-- **User Interaction**: Allowed users to select answers for each question and proceed through the quiz.
-- **Countdown Timer**: Implemented a timer that automatically submitted answers and showed results when time expired.
-- **Score Calculation**: Calculated the final score and highlighted correct answers for any incorrect responses.
 
----
-
-#### [Social App](https://github.com/MohamedGamalOmar/social_app) | JavaScript, Bootstrap
+#### [Social App](https://github.com/MohamedGamalOmar/social_app) | JavaScript, Bootstrap, REST API
 - **User Authentication**: Implemented **secure sign-up and login** functionality.
 - **Data Persistence**: Utilized **local and session storage** for user data management.
 - **Post Management**: Enabled users to **create, update, and delete their posts**.
@@ -161,8 +163,8 @@ complain number filtering.
 
 ### 🛠️ Technical Skills
 
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks**: Vue.js, React.js, Redux, Bootstrap, Tailwind CSS
+- **Languages**: HTML5, CSS3, Scss, JavaScript, TypeScript
+- **Frameworks**: Vue.js, React.js, Next.js, Redux, Bootstrap, Tailwind CSS
 - **Technologies**: Firebase, Git, REST API, Responsive Design
 
 <p align="left">
