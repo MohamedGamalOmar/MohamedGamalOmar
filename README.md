@@ -53,12 +53,25 @@
 #### Frontend Developer | TurnDigital (Software House)
 *April 2025 – Present | Maadi, Cairo, Egypt*
 
-- Specializing in Vue.js, Pinia, Vuex, TypeScript, SCSS, and Tailwind CSS. Responsible for developing
-scalable and modular user interfaces, integrating REST APIs, and implementing complex end-to-end business
-requirements. Work includes close collaboration with backend teams to deliver complete and well-structured
-features. Key duties involve building reusable UI components, managing application state efficiently, ensuring
-responsive cross-browser layouts, optimizing performance, enhancing user experience, and contributing to
-architectural improvements across projects. Improved UI performance and reduced integration issues.
+- Worked on large-scale Egyptian government projects including systems related to Ministry of MCIT
+(Ministry of Communications and Information Technology), CPA (Customer Protection Agency) and Misr
+Quran Radio. Specializing in Vue.js, Pinia, Vuex, TypeScript, SCSS, Tailwind CSS and Agile
+methodologies. Responsible for developing scalable and modular user interfaces, integrating REST
+APIs, and implementing complex end-to-end business requirements. Work includes close collaboration
+with backend and UI teams to deliver complete and well-structured features. Key duties involve building
+reusable UI components, managing application state efficiently, ensuring responsive cross-browser
+layouts, optimizing performance, enhancing user experience, and contributing to architectural
+improvements across projects.
+
+---
+
+#### Frontend Web Development Internship | ARIB Company
+*Jul 2024 – Sep 2024 | Cairo, Egypt*
+
+- Developed a fully responsive **e-commerce website prototype** using **React.js, Redux, and Bootstrap**.
+- Engineered a **dynamic product catalog** with advanced filtering and sorting features.
+- Integrated a **shopping cart and checkout system**, applying **React’s state management** for seamless user interactions.
+- Optimized the **mobile user interface**, ensuring a smooth and intuitive experience across devices.
 
 ---
 
@@ -73,15 +86,6 @@ architectural improvements across projects. Improved UI performance and reduced 
 
 ---
 
-#### Frontend Web Development Internship | ARIB Company
-*Jul 2024 – Sep 2024 | Cairo, Egypt*
-
-- Developed a fully responsive **e-commerce website prototype** using **React.js, Redux, and Bootstrap**.
-- Engineered a **dynamic product catalog** with advanced filtering and sorting features.
-- Integrated a **shopping cart and checkout system**, applying **React’s state management** for seamless user interactions.
-- Optimized the **mobile user interface**, ensuring a smooth and intuitive experience across devices.
-
----
 
 ### 🚀 Projects
 
